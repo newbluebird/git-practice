@@ -1,7 +1,7 @@
-main 1
+login main 1
 -
-F2
+login 2
 -
-S3
+login 3
 -
 SF4
